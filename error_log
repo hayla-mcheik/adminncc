@@ -1,0 +1,1 @@
+[01-Apr-2023 22:39:34 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.3.33. in /home/thegoproject/admin.thegoproject.me/vendor/composer/platform_check.php on line 24
